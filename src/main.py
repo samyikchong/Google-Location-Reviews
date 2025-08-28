@@ -1,5 +1,2 @@
-def x():
-    x == 1
-
-for i in x:
+for i in range(5):
     print('hello')
